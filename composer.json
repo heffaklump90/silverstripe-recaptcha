@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"silverstripe/spamprotection": "*",
+		"silverstripe/spamprotection": "1.2.0",
 		"silverstripe/framework": "~3.1"
 	},
 	"extra": {
